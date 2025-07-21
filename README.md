@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Basic chat app with golang and react js
 =======
 # Getting Started with Create React App
